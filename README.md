@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @davidfrear
-- 👀 I’m interested in Python, Software Engineering, Data Engineering and just really throwing my self in to new challenges.
+- 👀 I’m interested in Software Engineering, Data Engineering and just really throwing my self in to new challenges.
 - 🌱 I’m currently working with Python, HTML, CSS, JavaScript, React
 - 💞️ I’m looking to collaborate on any project people would like to show me the ropes on.
 - 📫 Reach me over this platform via message or LinkedIn
