@@ -3,7 +3,6 @@
 - 🌱 I’m currently working with Python, HTML, CSS, JavaScript, ReactJS
 - 💞️ I’m looking to collaborate on any project people.
 - 📫 Reach me over this platform via message or LinkedIn.
--     https://www.linkedin.com/in/davidfrear/
 
 <!---
 davidfrear/davidfrear is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
